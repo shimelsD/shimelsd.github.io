@@ -35,10 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a data-driven health crusader with a code-savvy edge, a public health researcher passionate about turning complex datasets into life-saving insights. By day, I lecture future health informatics leaders at Wollo University. By night (and often weekends!), I dive deep into R, Python, Keras, and SHAP, decoding Ethiopia’s health patterns from EDHS surveys like a digital epidemiologist.
+        I’ve published in top-tier journals, developed a Java-based clinic information system, forecasted neonatal mortality, and mastered time series smoothing techniques. I also mentor rising researchers and prepare myself for the next chapter: a PhD in data science at a world-class institution.
+        What drives me is the intersection of AI, health equity, and explainability — making sure machine learning models don’t just predict, but empower decision-makers in maternal and child health, chronic disease, and beyond. If there’s a pattern in public health, I’ll find it, map it, and model it — always with real-world impact in mind.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
+       🔥 Health equity + machine learning + code = me.
         Please reach out to collaborate 😃
     design:
       columns: '1'
