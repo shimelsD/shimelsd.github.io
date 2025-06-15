@@ -60,6 +60,7 @@ education:
     date_start: 2020-09-09
     date_end: 2022-09-01
     summary: |
+      GPA: 3.98/4.0 with Excellent thesis result
       Thesis on "Spatial distribution and predictors of contraceptive discontinuation among reproductive age women in Ethiopia using EDHS 2016 data: Prediction using GIS and machine learning". Supervised by [Dr. Yakub Sebastain(PhD)](https://researchers.cdu.edu.au/en/persons/yakub-sebastian) from  Charles Darwin University, Australia, and Mr. Abreham Yeneneh from University of Gondar, Ethiopia. 
     button:
       text: 'Read Thesis'
@@ -71,8 +72,8 @@ education:
     summary: |
       GPA: 3.91/4.0
 
-      Final Year Project: Developed desktop application Dental clinic information system(DCIS) using Java.
-      - developed as a final year project in 2019, aimed to advance the manual operation of [University of Gondar Specialized Hospital](https://hospital.uog.edu.et/) dental clinic. I have used Java GUI(Swing), MySQL database & JasperReport to develop the system.
+      Final Year Project: Developed a desktop application, Dental clinic information system(DCIS) using Java.
+      - Developed as a final year project in 2019, aimed to advance the manual operation of [University of Gondar Specialized Hospital](https://hospital.uog.edu.et/) dental clinic. I have used Java GUI(Swing), MySQL database & JasperReport to develop the system.
       <iframe width="560" height="315" src="https://www.youtube.com/embed/7CgK-pLkk6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 work:
