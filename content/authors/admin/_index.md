@@ -99,19 +99,19 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-  - name: R
+      - name: R
         description: ''
         percent: 80
         icon: code-bracket
-  - name: Spatial Statistics
+      - name: Spatial Statistics
         description: ''
         percent: 80
         icon: chart-bar
-  - name: Data Science
+      - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-  - name: SQL
+      - name: SQL
         description: ''
         percent: 100
         icon: circle-stack
