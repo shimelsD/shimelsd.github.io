@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecurer of Health Informatics
+role: Lecturer of Health Informatics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/shimelsd
   - icon: brands/linkedin
-    url: https://www.linkedin.com/shimels-derso-kebede
+    url: https://www.linkedin.com/in/shimels-derso-kebede/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/user=eL7Ies8AAAAJ&hl 
   - icon: academicons/orcid
