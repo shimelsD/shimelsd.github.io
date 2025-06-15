@@ -85,22 +85,11 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Teaching undergraduate courses such Knowlodge base management, Health Data analytics, Geographic information system (GIS) and disease mapping, Fundamentals of Programming (C++), and Object oriented Programming with Java 
-      - Supervising research projects/thesis of undergraduate and graduate students
-	  - Providing voluntary community health service.
-	  - Participating as a standing and ad-hoc committee within the university
-	  - Conducting data analysis (including prediction through machine learning/deep learning, time series forecasting, multi-level analysis, spatial analysis for disease mapping, and multivariate decomposition analysis) and data visualizations using STATA, Python and & R
+      - Teaching undergraduate courses such as Knowledge base management, Health Data analytics, Geographic information system     (GIS) and disease mapping, Fundamentals of Programming (C++), and Object-oriented Programming with Java 
+      - Supervising research projects/theses of undergraduate and graduate students
+      - Providing voluntary community health service.
+      - Participating as a standing and ad-hoc committee within the university
+      - Conducting data analysis (including prediction through machine learning/deep learning, time series forecasting, multi-level analysis, spatial analysis for disease mapping, and multivariate decomposition analysis) and data visualizations using STATA, Python, and R
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
