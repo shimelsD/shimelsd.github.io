@@ -61,6 +61,7 @@ education:
     date_end: 2022-09-01
     summary: |
       GPA: 3.98/4.0 with Excellent thesis result
+
       Thesis on "Spatial distribution and predictors of contraceptive discontinuation among reproductive age women in Ethiopia using EDHS 2016 data: Prediction using GIS and machine learning". Supervised by [Dr. Yakub Sebastain(PhD)](https://researchers.cdu.edu.au/en/persons/yakub-sebastian) from  Charles Darwin University, Australia, and Mr. Abreham Yeneneh from University of Gondar, Ethiopia. 
     button:
       text: 'Read Thesis'
