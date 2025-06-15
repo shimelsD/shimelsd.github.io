@@ -43,7 +43,7 @@ profiles:
     url: https://scholar.google.com/user=eL7Ies8AAAAJ&hl 
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5416-616X
-  - icon custom/researchgate
+  - icon: custom/researchgate
     url : https://www.researchgate.net/profile/Shimels-Kebede-2
     
 
