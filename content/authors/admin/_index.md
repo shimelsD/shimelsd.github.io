@@ -48,7 +48,7 @@ profiles:
     
 
 interests:
-  - Health Informatics/Digital health/eHealth
+  - Health Informatics/eHealth
   - Machine Learning/AI in Healthcare
   - Spatial Epidemiology
   - Maternal and Child Health (MCH)
@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: MPH in Health Informatics
-    institution: University of Gondar
+    institution: University of Gondar, 2022
     date_start: 2020-09-09
     date_end: 2022-09-01
     summary: |
@@ -65,7 +65,7 @@ education:
       text: 'Read Thesis'
       url: 'http://repository.iphce.org/handle/123456789/4276'
   - area: BSc Health Informatics
-    institution: University of Gondar
+    institution: University of Gondar, 2019
     date_start: 2015-09-09
     date_end: 2019-07-04
     summary: |
