@@ -7,9 +7,9 @@ design:
   spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
-
 ---
-Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>, or download a <a href="{{ base_path }}/files/shime_citations.bib">BiBTeX file</a>.
+
+Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>.
 <br />
 ## Featured Publications
 
@@ -32,6 +32,7 @@ Below is a list of my publications.  You can also look at <a href="https://schol
 <br />
 <hr />
 ## List of all Publications
+
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2F9Fa7aq5LgReBQDjWn&noBootstrap=1&jsonp=1"></script>
 
 <br />
