@@ -42,6 +42,7 @@ sections:
            🔥 Health equity + machine learning + code = me.
 
            Please reach out to collaborate 😃
+    
     design:
       columns: '1'
   - block: collection
