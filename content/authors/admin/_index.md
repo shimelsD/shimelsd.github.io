@@ -89,6 +89,18 @@ work:
       - Providing voluntary community health service.
       - Participating as a standing and ad-hoc committee within the university
       - Conducting data analysis (including prediction through machine learning/deep learning, time series forecasting, multi-level analysis, spatial analysis for disease mapping, and multivariate decomposition analysis) and data visualizations using STATA, Python, and R
+  - position: Graduate Assistant - II(GA-II) 
+    company_name: Wollo University
+    company_url: www.wu.edu.et
+    company_logo: ''
+    date_start: 2019-09-20
+    date_end: 2020-09-09
+    summary: |2-
+      Responsibilities include:
+      - Taught undergraduate courses for health science students.
+      - Assist undergraduate health informatics students with their final year projects.
+      - Provided voluntary community health service.
+      - Regulate the committees of the department at the department level and participate in different committees at the college level.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,7 +118,7 @@ skills:
       - name: Spatial Statistics
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: custom/spatial
       - name: Data Science
         description: ''
         percent: 100
