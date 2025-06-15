@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/shimels-derso-kebede/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/user=eL7Ies8AAAAJ&hl 
+    url: https://scholar.google.com/citations?user=eL7Ies8AAAAJ&hl
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-5416-616X
   - icon: custom/researchgate
