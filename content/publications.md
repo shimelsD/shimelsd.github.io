@@ -2,6 +2,7 @@
 title: 'Publications'
 date: 2023-10-24
 type: landing
+draft: false
 
 design:
   spacing: '5rem'
