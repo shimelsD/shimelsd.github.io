@@ -16,3 +16,4 @@ sections:
 ---
 
 ## Editorial Contributions
+ Here are my editorial contributions for various scientific journals.
