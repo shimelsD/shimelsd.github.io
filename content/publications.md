@@ -4,13 +4,17 @@ date: 2023-10-24
 type: landing
 draft: false
 
+# Page sections
+sections:
+  - block: collection
+    content:
+      title: List of my publications
+      text: Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>.
 design:
   spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 ---
-
-Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>.
 <br />
 ## Featured Publications
 
