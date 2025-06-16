@@ -9,8 +9,10 @@ draft: false
 sections:
   - block: collection
     content:
-      title: List of my publications from content
+      title: List of my publications from content/publications.md
       text: Below is a list of my publications.  You can also look at <a href="https://scholar.google.ca/citations?user=eL7Ies8AAAAJ">Google Scholar</a>.
+
+    
 design:
   spacing: '5rem'
 
